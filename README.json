@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "description": "Welcome! If you find that any of your favourite offensive tools is not on the list, you can suggest adding it.",
-      "items": [],
-      "title": "↑ Contributing"
-    },
-    {
       "description": "Tools that help you collect email addresses. Usually the search requires the domain of the company.",
       "items": [
         {
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1212922,
             "language": "Python",
             "last_commit": "2026-08-18T16:58:35Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17106
+            "stars": 17112
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 137433290,
             "language": "Python",
             "last_commit": "2023-08-15T10:50:34Z",
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5256
+            "stars": 5259
           }
         },
         {
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 618447667,
             "language": "Python",
             "last_commit": "2024-04-08T18:02:03Z",
             "owner": "jakecreps",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 676188629,
             "language": "Python",
             "last_commit": "2024-06-25T07:20:17Z",
             "owner": "N0rz3",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 367126152,
             "language": "Python",
             "last_commit": "2023-03-09T21:08:54Z",
             "owner": "Josue87",
@@ -85,228 +85,239 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626613604,
             "language": "Ruby",
             "last_commit": "2026-01-15T03:11:54Z",
             "owner": "ronin-rb",
             "repo": "ronin-recon",
             "stars": 42
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Infoga",
-          "description": null,
-          "children": []
         }
       ],
       "title": "↑ Email addresses"
     },
     {
       "description": "Tools for automatic search of subdomains. Most of them require API keys to work correctly.",
-      "items": [],
-      "title": "↑ SubDomain's"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Spiderfoot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-13T19:43:06Z",
-            "owner": "smicallef",
-            "repo": "spiderfoot",
-            "stars": 21184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "theHarvester",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:58:35Z",
-            "owner": "laramies",
-            "repo": "theHarvester",
-            "stars": 17106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amass",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-19T05:16:40Z",
-            "owner": "owasp-amass",
-            "repo": "amass",
-            "stars": 14991
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Photon",
-          "description": "Incredibly fast crawler designed for OSINT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T12:50:36Z",
-            "owner": "s0md3v",
-            "repo": "Photon",
-            "stars": 13120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bbot",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T02:45:50Z",
-            "owner": "blacklanternsecurity",
-            "repo": "bbot",
-            "stars": 10441
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sudomy",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-06-27T10:07:42Z",
-            "owner": "screetsec",
-            "repo": "Sudomy",
-            "stars": 2424
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GooFuzz",
-          "description": "Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-12-21T07:24:46Z",
-            "owner": "m3n0sd0n4ld",
-            "repo": "GooFuzz",
-            "stars": 1583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alterx",
-          "description": "Fast and customizable subdomain wordlist generator using DSL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-10T17:32:13Z",
-            "owner": "projectdiscovery",
-            "repo": "alterx",
-            "stars": 991
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Subdominator",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-21T08:36:12Z",
-            "owner": "RevoltSecurities",
-            "repo": "Subdominator",
-            "stars": 799
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SubGPT",
-          "description": "SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-04-18T13:43:08Z",
-            "owner": "s0md3v",
-            "repo": "SubGPT",
-            "stars": 356
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sub.Monitor",
-          "description": "Passive subdomain continous monitoring tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-30T17:13:32Z",
-            "owner": "e1abrador",
-            "repo": "sub.Monitor",
-            "stars": 172
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ronin-recon",
-          "description": "Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-01-15T03:11:54Z",
-            "owner": "ronin-rb",
-            "repo": "ronin-recon",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "subdomain-enum",
-          "description": "securitytrails api",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-18T18:12:26Z",
-            "owner": "chaitanyakrishna",
-            "repo": "subdomain-enum",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "subchase",
-          "description": "Chase subdomains by parsing the results of Google and Yandex search results",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-09-29T14:07:59Z",
-            "owner": "w0ltage",
-            "repo": "subchase",
-            "stars": 16
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spiderfoot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4165675,
+                "language": "Python",
+                "last_commit": "2026-04-13T19:43:06Z",
+                "owner": "smicallef",
+                "repo": "spiderfoot",
+                "stars": 21192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "theHarvester",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1212922,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:58:35Z",
+                "owner": "laramies",
+                "repo": "theHarvester",
+                "stars": 17112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amass",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140457254,
+                "language": "Go",
+                "last_commit": "2026-07-19T05:16:40Z",
+                "owner": "owasp-amass",
+                "repo": "amass",
+                "stars": 14994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Photon",
+              "description": "Incredibly fast crawler designed for OSINT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127466226,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:50:36Z",
+                "owner": "s0md3v",
+                "repo": "Photon",
+                "stars": 13121
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bbot",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 468957086,
+                "language": "Python",
+                "last_commit": "2026-08-18T02:45:50Z",
+                "owner": "blacklanternsecurity",
+                "repo": "bbot",
+                "stars": 10455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sudomy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198997511,
+                "language": "Shell",
+                "last_commit": "2024-06-27T10:07:42Z",
+                "owner": "screetsec",
+                "repo": "Sudomy",
+                "stars": 2424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GooFuzz",
+              "description": "Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 504599140,
+                "language": "Shell",
+                "last_commit": "2025-12-21T07:24:46Z",
+                "owner": "m3n0sd0n4ld",
+                "repo": "GooFuzz",
+                "stars": 1583
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alterx",
+              "description": "Fast and customizable subdomain wordlist generator using DSL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616826955,
+                "language": "Go",
+                "last_commit": "2026-07-10T17:32:13Z",
+                "owner": "projectdiscovery",
+                "repo": "alterx",
+                "stars": 992
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Subdominator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 670232090,
+                "language": "Python",
+                "last_commit": "2026-06-21T08:36:12Z",
+                "owner": "RevoltSecurities",
+                "repo": "Subdominator",
+                "stars": 799
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SubGPT",
+              "description": "SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 629651650,
+                "language": "Python",
+                "last_commit": "2024-04-18T13:43:08Z",
+                "owner": "s0md3v",
+                "repo": "SubGPT",
+                "stars": 356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sub.Monitor",
+              "description": "Passive subdomain continous monitoring tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650219193,
+                "language": "Python",
+                "last_commit": "2024-01-30T17:13:32Z",
+                "owner": "e1abrador",
+                "repo": "sub.Monitor",
+                "stars": 172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ronin-recon",
+              "description": "Recursive recon engine and framework that can enumerate subdomains, DNS records, port scan, grab TLS certs, spider websites, and collect email addresses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 626613604,
+                "language": "Ruby",
+                "last_commit": "2026-01-15T03:11:54Z",
+                "owner": "ronin-rb",
+                "repo": "ronin-recon",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "subdomain-enum",
+              "description": "securitytrails api",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 274360520,
+                "language": "Python",
+                "last_commit": "2023-03-18T18:12:26Z",
+                "owner": "chaitanyakrishna",
+                "repo": "subdomain-enum",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "subchase",
+              "description": "Chase subdomains by parsing the results of Google and Yandex search results",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657144381,
+                "language": "Go",
+                "last_commit": "2023-09-29T14:07:59Z",
+                "owner": "w0ltage",
+                "repo": "subchase",
+                "stars": 16
+              }
+            }
+          ],
+          "description": "Only sites/tools whose search is not automated by the tools above are listed here.",
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
-      "title": "Tools"
+      "title": "↑ SubDomain's"
     },
     {
       "description": "Tools for passive collection and analysis URLs",
@@ -318,11 +329,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4165675,
             "language": "Python",
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21184
+            "stars": 21192
           }
         },
         {
@@ -332,11 +344,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1212922,
             "language": "Python",
             "last_commit": "2026-08-18T16:58:35Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17106
+            "stars": 17112
           }
         },
         {
@@ -346,11 +359,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242879301,
             "language": "Go",
             "last_commit": "2026-03-20T18:36:42Z",
             "owner": "lc",
             "repo": "gau",
-            "stars": 5065
+            "stars": 5066
           }
         },
         {
@@ -360,6 +374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507135376,
             "language": "Python",
             "last_commit": "2026-06-11T10:45:51Z",
             "owner": "xnl-h4ck3r",
@@ -374,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 314763206,
             "language": "Go",
             "last_commit": "2025-01-23T15:48:12Z",
             "owner": "utkusen",
@@ -388,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 504599140,
             "language": "Shell",
             "last_commit": "2025-12-21T07:24:46Z",
             "owner": "m3n0sd0n4ld",
@@ -402,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 794116857,
             "language": "Go",
             "last_commit": "2026-08-10T03:23:35Z",
             "owner": "projectdiscovery",
@@ -416,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 647721487,
             "language": "Python",
             "last_commit": "2024-11-24T10:54:31Z",
             "owner": "z0m31en7",
@@ -430,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 366965652,
             "language": "Go",
             "last_commit": "2026-02-23T15:54:13Z",
             "owner": "hueristiq",
@@ -444,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 702292407,
             "language": "Python",
             "last_commit": "2026-08-17T13:33:43Z",
             "owner": "AnonCatalyst",
@@ -458,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626613604,
             "language": "Ruby",
             "last_commit": "2026-01-15T03:11:54Z",
             "owner": "ronin-rb",
@@ -472,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 444532002,
             "language": "Python",
             "last_commit": "2022-08-03T06:26:48Z",
             "owner": "ninjhacks",
@@ -492,6 +515,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 471627548,
             "language": "Go",
             "last_commit": "2026-08-15T20:03:02Z",
             "owner": "s0md3v",
@@ -506,6 +530,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165397760,
             "language": "Lua",
             "last_commit": "2021-12-03T17:14:45Z",
             "owner": "censys",
@@ -526,6 +551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66045666,
             "language": "Python",
             "last_commit": "2025-12-01T16:24:43Z",
             "owner": "opsdisk",
@@ -540,6 +566,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 540138718,
             "language": "Vue",
             "last_commit": "2022-11-24T19:25:09Z",
             "owner": "pbkompasz",
@@ -560,11 +587,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-18T05:34:09Z",
+            "last_commit": "2026-08-19T05:34:57Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 89772
+            "stars": 89798
           }
         },
         {
@@ -574,11 +602,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275386910,
             "language": "Python",
-            "last_commit": "2026-08-18T11:29:16Z",
+            "last_commit": "2026-08-19T06:03:15Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 36873
+            "stars": 36883
           }
         },
         {
@@ -588,11 +617,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317319347,
             "language": "JavaScript",
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23775
+            "stars": 23779
           }
         },
         {
@@ -602,6 +632,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178254323,
             "language": "Python",
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
@@ -616,6 +647,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240491830,
             "language": "Python",
             "last_commit": "2026-07-30T06:34:29Z",
             "owner": "snooppr",
@@ -630,11 +662,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43576624,
             "language": "Python",
             "last_commit": "2026-08-16T23:50:38Z",
             "owner": "WebBreacher",
             "repo": "WhatsMyName",
-            "stars": 2779
+            "stars": 2780
           }
         },
         {
@@ -644,6 +677,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 369583524,
             "language": "Python",
             "last_commit": "2023-09-30T04:43:12Z",
             "owner": "thewhiteh4t",
@@ -658,11 +692,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171108156,
             "language": "Python",
             "last_commit": "2026-08-03T20:47:15Z",
             "owner": "iojw",
             "repo": "socialscan",
-            "stars": 1817
+            "stars": 1818
           }
         },
         {
@@ -672,6 +707,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 145011548,
             "language": "Shell",
             "last_commit": "2021-02-17T17:22:28Z",
             "owner": "wishihab",
@@ -686,6 +722,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196331575,
             "language": "Python",
             "last_commit": "2022-07-17T03:38:11Z",
             "owner": "meanii",
@@ -700,6 +737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293055376,
             "language": "CSS",
             "last_commit": "2021-01-26T21:52:37Z",
             "owner": "woj-ciech",
@@ -714,6 +752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280950753,
             "language": "Python",
             "last_commit": "2023-12-11T11:00:26Z",
             "owner": "YouVBeenHacked",
@@ -728,6 +767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196368557,
             "language": "Go",
             "last_commit": "2022-05-14T01:52:17Z",
             "owner": "mesuutt",
@@ -742,6 +782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234680812,
             "language": "Python",
             "last_commit": "2022-12-08T03:27:45Z",
             "owner": "rahulrajpl",
@@ -756,6 +797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278713545,
             "language": "Python",
             "last_commit": "2021-04-27T14:16:46Z",
             "owner": "restanse",
@@ -770,6 +812,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 380375021,
             "language": "TypeScript",
             "last_commit": "2026-08-11T21:45:51Z",
             "owner": "AlexC-ux",
@@ -790,11 +833,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 154643390,
             "language": "Go",
             "last_commit": "2026-01-06T11:08:15Z",
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 17542
+            "stars": 17551
           }
         },
         {
@@ -804,11 +848,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 628192229,
             "language": "Python",
             "last_commit": "2024-01-11T15:36:46Z",
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 14850
+            "stars": 14860
           }
         },
         {
@@ -818,6 +863,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102299062,
             "language": "Python",
             "last_commit": "2026-04-25T02:00:17Z",
             "owner": "GeiserX",
@@ -829,7 +875,7 @@
       "title": "↑ Phone number"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -838,6 +884,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121825520,
             "language": "Perl",
             "last_commit": "2025-04-21T08:23:07Z",
             "owner": "Moham3dRiahi",
@@ -852,11 +899,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116033360,
             "language": "Python",
             "last_commit": "2021-06-11T08:13:53Z",
             "owner": "twelvesec",
             "repo": "gasmask",
-            "stars": 1461
+            "stars": 1462
           }
         }
       ],
@@ -872,6 +920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488647450,
             "language": null,
             "last_commit": "2026-04-08T14:54:23Z",
             "owner": "7WaySecurity",
@@ -886,6 +935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329575971,
             "language": null,
             "last_commit": "2022-07-07T12:42:36Z",
             "owner": "valeriyshevchenko90",
@@ -900,6 +950,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436782219,
             "language": "PHP",
             "last_commit": "2025-03-13T10:48:56Z",
             "owner": "soxoj",
@@ -909,16 +960,12 @@
         }
       ],
       "title": "↑ Useful links"
-    },
-    {
-      "description": "Some of the sites included might require registration or offer more data for $$$, but you should be able to get at least a portion of the available information for no cost.\nInspired by https://github.com/jivoi/awesome-osint",
-      "items": [],
-      "title": "Warning"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:34:35.533Z",
+    "last_updated": "2026-08-19T12:12:39.350Z",
     "original_repository": "wddadk/Offensive-OSINT-Tools",
+    "original_repository_id": 561189082,
     "original_repository_sha": "80dec506a902babc0b1c218ecaf24f67d71c19c0",
     "enhanced_repository": "enhansome/enhansome-Offensive-OSINT-Tools",
     "enhanced_repository_description": null,
