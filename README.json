@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1212922,
             "language": "Python",
-            "last_commit": "2026-08-24T02:20:49Z",
+            "last_commit": "2026-08-25T02:10:17Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17180
+            "stars": 17190
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-08-15T10:50:34Z",
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5271
+            "stars": 5273
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-06-25T07:20:17Z",
             "owner": "N0rz3",
             "repo": "Eyes",
-            "stars": 546
+            "stars": 547
           }
         },
         {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-04-13T19:43:06Z",
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 21389
+                "stars": 21400
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-24T02:20:49Z",
+                "last_commit": "2026-08-25T02:10:17Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17180
+                "stars": 17190
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-07-19T05:16:40Z",
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15032
+                "stars": 15037
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-07T12:50:36Z",
                 "owner": "s0md3v",
                 "repo": "Photon",
-                "stars": 13138
+                "stars": 13141
               }
             },
             {
@@ -170,10 +170,10 @@
                 "archived": false,
                 "id": 468957086,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:51:21Z",
+                "last_commit": "2026-08-25T00:16:48Z",
                 "owner": "blacklanternsecurity",
                 "repo": "bbot",
-                "stars": 10494
+                "stars": 10501
               }
             },
             {
@@ -233,7 +233,7 @@
                 "last_commit": "2026-06-21T08:36:12Z",
                 "owner": "RevoltSecurities",
                 "repo": "Subdominator",
-                "stars": 804
+                "stars": 805
               }
             },
             {
@@ -248,7 +248,7 @@
                 "last_commit": "2024-04-18T13:43:08Z",
                 "owner": "s0md3v",
                 "repo": "SubGPT",
-                "stars": 356
+                "stars": 357
               }
             },
             {
@@ -334,7 +334,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21389
+            "stars": 21400
           }
         },
         {
@@ -346,10 +346,10 @@
             "archived": false,
             "id": 1212922,
             "language": "Python",
-            "last_commit": "2026-08-24T02:20:49Z",
+            "last_commit": "2026-08-25T02:10:17Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17180
+            "stars": 17190
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-03-20T18:36:42Z",
             "owner": "lc",
             "repo": "gau",
-            "stars": 5072
+            "stars": 5073
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2026-06-11T10:45:51Z",
             "owner": "xnl-h4ck3r",
             "repo": "waymore",
-            "stars": 2729
+            "stars": 2730
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-08-11T09:01:27Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34584
+            "stars": 34586
           }
         }
       ],
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-15T20:03:02Z",
             "owner": "s0md3v",
             "repo": "Smap",
-            "stars": 3283
+            "stars": 3284
           }
         },
         {
@@ -676,7 +676,7 @@
             "last_commit": "2026-08-24T05:19:36Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90155
+            "stars": 90185
           }
         },
         {
@@ -691,7 +691,7 @@
             "last_commit": "2026-08-24T13:05:03Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 37003
+            "stars": 37010
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23817
+            "stars": 23818
           }
         },
         {
@@ -721,7 +721,7 @@
             "last_commit": "2024-11-01T20:11:51Z",
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5866
+            "stars": 5867
           }
         },
         {
@@ -733,10 +733,10 @@
             "archived": false,
             "id": 240491830,
             "language": "Python",
-            "last_commit": "2026-07-30T06:34:29Z",
+            "last_commit": "2026-08-24T19:01:30Z",
             "owner": "snooppr",
             "repo": "snoop",
-            "stars": 4010
+            "stars": 4009
           }
         },
         {
@@ -751,7 +751,7 @@
             "last_commit": "2026-08-16T23:50:38Z",
             "owner": "WebBreacher",
             "repo": "WhatsMyName",
-            "stars": 2797
+            "stars": 2801
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-01-06T11:08:15Z",
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 17621
+            "stars": 17625
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2024-01-11T15:36:46Z",
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 14920
+            "stars": 14926
           }
         },
         {
@@ -973,7 +973,7 @@
             "last_commit": "2025-04-21T08:23:07Z",
             "owner": "Moham3dRiahi",
             "repo": "Th3inspector",
-            "stars": 2661
+            "stars": 2662
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2021-06-11T08:13:53Z",
             "owner": "twelvesec",
             "repo": "gasmask",
-            "stars": 1463
+            "stars": 1462
           }
         }
       ],
@@ -1047,7 +1047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:05.691Z",
+    "last_updated": "2026-08-25T03:36:36.939Z",
     "original_repository": "wddadk/Offensive-OSINT-Tools",
     "original_repository_id": 561189082,
     "original_repository_sha": "80dec506a902babc0b1c218ecaf24f67d71c19c0",
