@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T02:10:17Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17190
+            "stars": 17191
           }
         },
         {
@@ -113,7 +113,7 @@
                 "last_commit": "2026-04-13T19:43:06Z",
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 21400
+                "stars": 21402
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-25T02:10:17Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17190
+                "stars": 17191
               }
             },
             {
@@ -334,7 +334,7 @@
             "last_commit": "2026-04-13T19:43:06Z",
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 21400
+            "stars": 21402
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-08-25T02:10:17Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17190
+            "stars": 17191
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-08-11T09:01:27Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34586
+            "stars": 34588
           }
         }
       ],
@@ -673,10 +673,10 @@
             "archived": false,
             "id": 162998479,
             "language": "Python",
-            "last_commit": "2026-08-24T05:19:36Z",
+            "last_commit": "2026-08-25T05:15:58Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90185
+            "stars": 90201
           }
         },
         {
@@ -691,7 +691,7 @@
             "last_commit": "2026-08-24T13:05:03Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 37010
+            "stars": 37014
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23818
+            "stars": 23820
           }
         },
         {
@@ -736,7 +736,7 @@
             "last_commit": "2026-08-24T19:01:30Z",
             "owner": "snooppr",
             "repo": "snoop",
-            "stars": 4009
+            "stars": 4010
           }
         },
         {
@@ -937,7 +937,7 @@
             "last_commit": "2024-01-11T15:36:46Z",
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 14926
+            "stars": 14927
           }
         },
         {
@@ -1047,7 +1047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:36:36.939Z",
+    "last_updated": "2026-08-25T06:06:46.100Z",
     "original_repository": "wddadk/Offensive-OSINT-Tools",
     "original_repository_id": 561189082,
     "original_repository_sha": "80dec506a902babc0b1c218ecaf24f67d71c19c0",
