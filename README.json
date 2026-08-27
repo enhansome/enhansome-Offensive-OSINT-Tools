@@ -15,7 +15,7 @@
             "last_commit": "2026-08-27T03:04:56Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17206
+            "stars": 17207
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-08-15T10:50:34Z",
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5273
+            "stars": 5274
           }
         },
         {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-27T03:04:56Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17206
+                "stars": 17207
               }
             },
             {
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 468957086,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:13:58Z",
+                "last_commit": "2026-08-27T12:46:39Z",
                 "owner": "blacklanternsecurity",
                 "repo": "bbot",
                 "stars": 10508
@@ -349,7 +349,7 @@
             "last_commit": "2026-08-27T03:04:56Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17206
+            "stars": 17207
           }
         },
         {
@@ -541,7 +541,7 @@
             "last_commit": "2026-08-25T09:47:59Z",
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 34610
+            "stars": 34611
           }
         }
       ],
@@ -676,7 +676,7 @@
             "last_commit": "2026-08-27T07:40:20Z",
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 90386
+            "stars": 90389
           }
         },
         {
@@ -691,7 +691,7 @@
             "last_commit": "2026-08-27T10:09:55Z",
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 37089
+            "stars": 37091
           }
         },
         {
@@ -706,7 +706,7 @@
             "last_commit": "2026-01-12T21:50:25Z",
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 23848
+            "stars": 23849
           }
         },
         {
@@ -922,7 +922,7 @@
             "last_commit": "2026-08-25T07:42:10Z",
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 17652
+            "stars": 17653
           }
         },
         {
@@ -1047,7 +1047,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:23.988Z",
+    "last_updated": "2026-08-27T13:08:06.206Z",
     "original_repository_info": {
       "archived": false,
       "id": 561189082,
