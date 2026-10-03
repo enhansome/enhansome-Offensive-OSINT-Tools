@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "theHarvester",
-          "description": null,
+          "description": "laramies/theHarvester",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-02T02:48:22Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17750,
+            "stars": 17766,
             "topics": [
               "blueteam",
               "discovery",
@@ -51,7 +51,7 @@
             "open_issues": 39,
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5323,
+            "stars": 5325,
             "topics": [
               "breach",
               "breach-compilation",
@@ -111,7 +111,7 @@
             "open_issues": 5,
             "owner": "N0rz3",
             "repo": "Eyes",
-            "stars": 552,
+            "stars": 553,
             "topics": [
               "account",
               "cli",
@@ -202,7 +202,7 @@
             {
               "node_type": "item",
               "title": "Spiderfoot",
-              "description": null,
+              "description": "smicallef/spiderfoot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -215,7 +215,7 @@
                 "open_issues": 323,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 22730,
+                "stars": 22735,
                 "topics": [
                   "attacksurface",
                   "cti",
@@ -243,7 +243,7 @@
             {
               "node_type": "item",
               "title": "theHarvester",
-              "description": null,
+              "description": "laramies/theHarvester",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -253,10 +253,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-02T02:48:22Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17750,
+                "stars": 17766,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -275,7 +275,7 @@
             {
               "node_type": "item",
               "title": "Amass",
-              "description": null,
+              "description": "owasp-amass/amass",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -288,7 +288,7 @@
                 "open_issues": 244,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15241,
+                "stars": 15247,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -323,7 +323,7 @@
                 "open_issues": 60,
                 "owner": "s0md3v",
                 "repo": "Photon",
-                "stars": 13251,
+                "stars": 13248,
                 "topics": [
                   "crawler",
                   "information-gathering",
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "Bbot",
-              "description": null,
+              "description": "blacklanternsecurity/bbot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -346,7 +346,7 @@
                 "id": 468957086,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T06:05:01Z",
+                "last_commit": "2026-10-03T02:49:11Z",
                 "open_issues": 45,
                 "owner": "blacklanternsecurity",
                 "repo": "bbot",
@@ -379,7 +379,7 @@
             {
               "node_type": "item",
               "title": "Sudomy",
-              "description": null,
+              "description": "screetsec/Sudomy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
                 "open_issues": 42,
                 "owner": "screetsec",
                 "repo": "Sudomy",
-                "stars": 2434,
+                "stars": 2433,
                 "topics": [
                   "bash",
                   "bugbounty",
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "Subdominator",
-              "description": null,
+              "description": "RevoltSecurities/Subdominator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -488,7 +488,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-21T08:36:12Z",
-                "open_issues": 5,
+                "open_issues": 18,
                 "owner": "RevoltSecurities",
                 "repo": "Subdominator",
                 "stars": 808,
@@ -670,7 +670,7 @@
         {
           "node_type": "item",
           "title": "Spiderfoot",
-          "description": null,
+          "description": "smicallef/spiderfoot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -683,7 +683,7 @@
             "open_issues": 323,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22730,
+            "stars": 22735,
             "topics": [
               "attacksurface",
               "cti",
@@ -711,7 +711,7 @@
         {
           "node_type": "item",
           "title": "theHarvester",
-          "description": null,
+          "description": "laramies/theHarvester",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -721,10 +721,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-02T02:48:22Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17750,
+            "stars": 17766,
             "topics": [
               "blueteam",
               "discovery",
@@ -743,7 +743,7 @@
         {
           "node_type": "item",
           "title": "Gau",
-          "description": null,
+          "description": "lc/gau",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -756,7 +756,7 @@
             "open_issues": 35,
             "owner": "lc",
             "repo": "gau",
-            "stars": 5109,
+            "stars": 5111,
             "topics": [
               "alienvault",
               "gau",
@@ -770,7 +770,7 @@
         {
           "node_type": "item",
           "title": "Waymore",
-          "description": null,
+          "description": "xnl-h4ck3r/waymore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -855,7 +855,7 @@
         {
           "node_type": "item",
           "title": "Urlfinder",
-          "description": null,
+          "description": "projectdiscovery/urlfinder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -924,7 +924,7 @@
         {
           "node_type": "item",
           "title": "Xurlfind3r",
-          "description": null,
+          "description": "hueristiq/xurlfind3r",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -937,7 +937,7 @@
             "open_issues": 3,
             "owner": "hueristiq",
             "repo": "xurlfind3r",
-            "stars": 725,
+            "stars": 724,
             "topics": [
               "bug-bounty",
               "bug-bounty-tools",
@@ -974,7 +974,7 @@
             "open_issues": 6,
             "owner": "AnonCatalyst",
             "repo": "Ominis-OSINT",
-            "stars": 626,
+            "stars": 628,
             "topics": [
               "finder",
               "forensics",
@@ -1036,7 +1036,7 @@
         {
           "node_type": "item",
           "title": "Unja",
-          "description": null,
+          "description": "ninjhacks/unja",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1076,7 +1076,7 @@
             "open_issues": 4,
             "owner": "ipinfo",
             "repo": "cli",
-            "stars": 2071,
+            "stars": 2070,
             "topics": [
               "cli",
               "golang",
@@ -1107,8 +1107,8 @@
             "id": 658364446,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T19:33:51Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-02T19:06:47Z",
+            "open_issues": 1,
             "owner": "lissy93",
             "repo": "web-check",
             "stars": 34972,
@@ -1131,7 +1131,7 @@
         {
           "node_type": "item",
           "title": "Smap",
-          "description": null,
+          "description": "s0md3v/Smap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1144,7 +1144,7 @@
             "open_issues": 1,
             "owner": "s0md3v",
             "repo": "Smap",
-            "stars": 3303,
+            "stars": 3302,
             "topics": [
               "network-scanner",
               "network-security",
@@ -1161,7 +1161,7 @@
         {
           "node_type": "item",
           "title": "Nmap-censys",
-          "description": null,
+          "description": "censys/nmap-censys",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1218,7 +1218,7 @@
         {
           "node_type": "item",
           "title": "Telepathy",
-          "description": null,
+          "description": "prose-intelligence-ltd/Telepathy-Community",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1247,7 +1247,7 @@
         {
           "node_type": "item",
           "title": "Pagodo",
-          "description": null,
+          "description": "opsdisk/pagodo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1307,7 +1307,7 @@
         {
           "node_type": "item",
           "title": "Sherlock",
-          "description": null,
+          "description": "sherlock-project/sherlock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1320,7 +1320,7 @@
             "open_issues": 354,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93137,
+            "stars": 93160,
             "topics": [
               "cli",
               "cti",
@@ -1345,7 +1345,7 @@
         {
           "node_type": "item",
           "title": "maigret",
-          "description": null,
+          "description": "soxoj/maigret",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1358,7 +1358,7 @@
             "open_issues": 80,
             "owner": "soxoj",
             "repo": "maigret",
-            "stars": 38203,
+            "stars": 38211,
             "topics": [
               "cli",
               "cybersecurity",
@@ -1387,7 +1387,7 @@
         {
           "node_type": "item",
           "title": "Social analyzer",
-          "description": null,
+          "description": "qeeqbox/social-analyzer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1400,7 +1400,7 @@
             "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24161,
+            "stars": 24166,
             "topics": [
               "analysis",
               "analyzer",
@@ -1428,7 +1428,7 @@
         {
           "node_type": "item",
           "title": "recon-ng",
-          "description": null,
+          "description": "lanmaster53/recon-ng",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1441,7 +1441,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5950,
+            "stars": 5952,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:47.470Z"
@@ -1449,7 +1449,7 @@
         {
           "node_type": "item",
           "title": "snoop",
-          "description": null,
+          "description": "snooppr/snoop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1462,7 +1462,7 @@
             "open_issues": 1,
             "owner": "snooppr",
             "repo": "snoop",
-            "stars": 4040,
+            "stars": 4039,
             "topics": [
               "blueteam",
               "ctf",
@@ -1491,7 +1491,7 @@
         {
           "node_type": "item",
           "title": "whatsmyname",
-          "description": null,
+          "description": "WebBreacher/WhatsMyName",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1504,7 +1504,7 @@
             "open_issues": 3,
             "owner": "WebBreacher",
             "repo": "WhatsMyName",
-            "stars": 2913,
+            "stars": 2916,
             "topics": [
               "cybersecurity",
               "dataset",
@@ -1522,7 +1522,7 @@
         {
           "node_type": "item",
           "title": "nexfil",
-          "description": null,
+          "description": "thewhiteh4t/nexfil",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1535,7 +1535,7 @@
             "open_issues": 8,
             "owner": "thewhiteh4t",
             "repo": "nexfil",
-            "stars": 2630,
+            "stars": 2631,
             "topics": [
               "cybersecurity",
               "fast",
@@ -1550,7 +1550,7 @@
         {
           "node_type": "item",
           "title": "socialscan",
-          "description": null,
+          "description": "iojw/socialscan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1579,7 +1579,7 @@
         {
           "node_type": "item",
           "title": "userrecon",
-          "description": null,
+          "description": "wishihab/userrecon",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1600,7 +1600,7 @@
         {
           "node_type": "item",
           "title": "Search4",
-          "description": null,
+          "description": "meanii/Search4",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1625,7 +1625,7 @@
         {
           "node_type": "item",
           "title": "SocialPath",
-          "description": null,
+          "description": "woj-ciech/SocialPath",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,7 +1646,7 @@
         {
           "node_type": "item",
           "title": "gideon",
-          "description": null,
+          "description": "YouVBeenHacked/gideon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1667,7 +1667,7 @@
         {
           "node_type": "item",
           "title": "Sherlock",
-          "description": null,
+          "description": "mesuutt/sherlock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1700,7 +1700,7 @@
         {
           "node_type": "item",
           "title": "netizenship",
-          "description": null,
+          "description": "rahulrajpl/netizenship",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1730,7 +1730,7 @@
         {
           "node_type": "item",
           "title": "NicknameFinder",
-          "description": null,
+          "description": "restanse/NicknameFinder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1755,7 +1755,7 @@
         {
           "node_type": "item",
           "title": "Arina-OSINT",
-          "description": null,
+          "description": "AlexC-ux/Arina-OSINT-nickname-checker-",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1798,10 +1798,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-08-25T07:42:10Z",
-            "open_issues": 155,
+            "open_issues": 156,
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 18017,
+            "stars": 18020,
             "topics": [
               "agregation",
               "footprint",
@@ -1820,7 +1820,7 @@
         {
           "node_type": "item",
           "title": "GhostTrack",
-          "description": null,
+          "description": "HunxByts/GhostTrack",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1833,7 +1833,7 @@
             "open_issues": 125,
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 16581,
+            "stars": 16726,
             "topics": [
               "cybersecurity",
               "fyp",
@@ -1909,7 +1909,7 @@
         {
           "node_type": "item",
           "title": "Th3inspector",
-          "description": null,
+          "description": "Moham3dRiahi/Th3inspector",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1951,7 +1951,7 @@
         {
           "node_type": "item",
           "title": "Gasmask",
-          "description": null,
+          "description": "twelvesec/gasmask",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2045,7 +2045,7 @@
         {
           "node_type": "item",
           "title": "Information Disclosure Write-Ups And PoCs",
-          "description": null,
+          "description": "soxoj/information-disclosure-writeups-and-pocs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:02:35.599Z",
+    "last_updated": "2026-10-03T04:32:06.089Z",
     "original_repository_info": {
       "archived": false,
       "description": "OffSec OSINT Pentest/RedTeam Tools",
@@ -2084,7 +2084,7 @@
       "open_issues": 1,
       "owner": "wddadk",
       "repo": "Offensive-OSINT-Tools",
-      "stars": 1287,
+      "stars": 1286,
       "topics": [
         "awesome-list",
         "hacking",
