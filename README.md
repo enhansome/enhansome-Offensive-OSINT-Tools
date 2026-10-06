@@ -59,7 +59,7 @@ Search Engines for Investigation Domains/IP Addresses.
 Tools that help you collect email addresses. Usually the search requires the domain of the company.
 
 * [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,862 | 🐛 7 | 🌐 Python | 📅 2026-10-04
-* [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,327 | 🐛 39 | 🌐 Python | 📅 2023-08-15 - Email OSINT & Password breach hunting tool
+* [h8mail](https://github.com/khast3x/h8mail) ⭐ 5,328 | 🐛 39 | 🌐 Python | 📅 2023-08-15 - Email OSINT & Password breach hunting tool
 * [Poastal](https://github.com/jakecreps/poastal) ⭐ 602 | 🐛 11 | 🌐 Python | 📅 2024-04-08 - Tool that provides valuable information on any email address
 * [Eyes](https://github.com/N0rz3/Eyes) ⚠️ Archived - Email osint tool
 * [EmailFinder](https://github.com/Josue87/EmailFinder) ⚠️ Archived - Search emails from a domain through search engines
@@ -85,11 +85,11 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 
 ### Tools
 
-* [Spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 22,860 | 🐛 328 | 🌐 Python | 📅 2026-04-13
+* [Spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 22,863 | 🐛 328 | 🌐 Python | 📅 2026-04-13
 * [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,862 | 🐛 7 | 🌐 Python | 📅 2026-10-04
-* [Amass](https://github.com/OWASP/Amass) ⭐ 15,293 | 🐛 243 | 🌐 Go | 📅 2026-07-19
+* [Amass](https://github.com/OWASP/Amass) ⭐ 15,294 | 🐛 243 | 🌐 Go | 📅 2026-07-19
 * [Photon](https://github.com/s0md3v/Photon) ⭐ 13,254 | 🐛 60 | 🌐 Python | 📅 2026-09-04 - Incredibly fast crawler designed for OSINT.
-* [Bbot](https://github.com/blacklanternsecurity/bbot) ⭐ 10,661 | 🐛 46 | 🌐 Python | 📅 2026-10-06
+* [Bbot](https://github.com/blacklanternsecurity/bbot) ⭐ 10,662 | 🐛 46 | 🌐 Python | 📅 2026-10-06
 * [Sudomy](https://github.com/screetsec/Sudomy) ⭐ 2,435 | 🐛 42 | 🌐 Shell | 📅 2024-06-27
 * [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) ⭐ 1,593 | 🐛 0 | 🌐 Shell | 📅 2025-12-21 - Enumerate directories, files, subdomains or parameters without leaving evidence on the target's serve
 * [alterx](https://github.com/projectdiscovery/alterx) ⭐ 1,010 | 🐛 7 | 🌐 Go | 📅 2026-09-21 - Fast and customizable subdomain wordlist generator using DSL.
@@ -115,7 +115,7 @@ Tools for automatic search of subdomains. Most of them require API keys to work 
 
 Tools for passive collection and analysis URLs
 
-* [Spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 22,860 | 🐛 328 | 🌐 Python | 📅 2026-04-13
+* [Spiderfoot](https://github.com/smicallef/spiderfoot) ⭐ 22,863 | 🐛 328 | 🌐 Python | 📅 2026-04-13
 * [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,862 | 🐛 7 | 🌐 Python | 📅 2026-10-04
 * [Gau](https://github.com/lc/gau) ⭐ 5,115 | 🐛 35 | 🌐 Go | 📅 2026-03-20
 * [Waymore](https://github.com/xnl-h4ck3r/waymore) ⭐ 2,763 | 🐛 4 | 🌐 Python | 📅 2026-06-11
@@ -182,7 +182,7 @@ Tools for viewing the DNS history of a domain.
 
 ## [](#-table-of-contents) Certifications
 
-* [Web-check](https://github.com/Lissy93/web-check) ⭐ 35,019 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-05 + [Web version](https://web-check.as93.net/)
+* [Web-check](https://github.com/Lissy93/web-check) ⭐ 35,020 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-05 + [Web version](https://web-check.as93.net/)
 * [Crt.sh](https://crt.sh/)
 
 ## [↑](#-table-of-contents) FTP servers
@@ -223,10 +223,10 @@ Tools for Google Dorks.
 
 Nickname search tools.
 
-* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 93,308 | 🐛 356 | 🌐 Python | 📅 2026-10-06
+* [Sherlock](https://github.com/sherlock-project/sherlock) ⭐ 93,313 | 🐛 356 | 🌐 Python | 📅 2026-10-06
 * [maigret](https://github.com/soxoj/maigret) ⭐ 38,351 | 🐛 62 | 🌐 Python | 📅 2026-10-06
-* [Social analyzer](https://github.com/qeeqbox/social-analyzer) ⭐ 24,243 | 🐛 28 | 🌐 JavaScript | 📅 2026-01-12
-* [recon-ng](https://github.com/lanmaster53/recon-ng/) ⭐ 5,972 | 🐛 39 | 🌐 Python | 📅 2026-10-05
+* [Social analyzer](https://github.com/qeeqbox/social-analyzer) ⭐ 24,244 | 🐛 28 | 🌐 JavaScript | 📅 2026-01-12
+* [recon-ng](https://github.com/lanmaster53/recon-ng/) ⭐ 5,973 | 🐛 39 | 🌐 Python | 📅 2026-10-05
 * [snoop](https://github.com/snooppr/snoop) ⭐ 4,040 | 🐛 1 | 🌐 Python | 📅 2026-10-01
 * [whatsmyname](https://github.com/webbreacher/whatsmyname) ⭐ 2,926 | 🐛 3 | 🌐 Python | 📅 2026-09-16
 * [nexfil](https://github.com/thewhiteh4t/nexfil) ⭐ 2,632 | 🐛 8 | 🌐 Python | 📅 2023-09-30
@@ -245,8 +245,8 @@ Nickname search tools.
 
 Sometimes situations happen that require analysing an employee's phone number to get more information.
 
-* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) ⭐ 18,048 | 🐛 157 | 🌐 Go | 📅 2026-08-25 + [Web Demo](https://demo.phoneinfoga.crvx.fr/)
-* [GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 17,138 | 🐛 126 | 🌐 Python | 📅 2024-01-11
+* [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) ⭐ 18,049 | 🐛 157 | 🌐 Go | 📅 2026-08-25 + [Web Demo](https://demo.phoneinfoga.crvx.fr/)
+* [GhostTrack](https://github.com/HunxByts/GhostTrack) ⭐ 17,144 | 🐛 127 | 🌐 Python | 📅 2024-01-11
 * [BuscaPaginasBlancas](https://github.com/GeiserX/BuscaPaginasBlancas) ⚠️ Archived - Python tool for automated lookups on Spanish white pages (PaginasBlancas.es) to find phone numbers and addresses
 * [Osint.industries](https://osint.industries/)
 * [Emobiletracker](https://www.emobiletracker.com/)
@@ -288,7 +288,7 @@ Some of the sites included might require registration or offer more data for $$$
 
 ***
 
-*Inspired by <https://github.com/jivoi/awesome-osint> ⭐ 29,988 | 🐛 0 | 📅 2026-10-06*
+*Inspired by <https://github.com/jivoi/awesome-osint> ⭐ 29,987 | 🐛 0 | 📅 2026-10-06*
 
 ***
 

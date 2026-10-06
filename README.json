@@ -51,7 +51,7 @@
             "open_issues": 39,
             "owner": "khast3x",
             "repo": "h8mail",
-            "stars": 5327,
+            "stars": 5328,
             "topics": [
               "breach",
               "breach-compilation",
@@ -215,7 +215,7 @@
                 "open_issues": 328,
                 "owner": "smicallef",
                 "repo": "spiderfoot",
-                "stars": 22860,
+                "stars": 22863,
                 "topics": [
                   "attacksurface",
                   "cti",
@@ -288,7 +288,7 @@
                 "open_issues": 243,
                 "owner": "owasp-amass",
                 "repo": "amass",
-                "stars": 15293,
+                "stars": 15294,
                 "topics": [
                   "attack-surfaces",
                   "dns",
@@ -350,7 +350,7 @@
                 "open_issues": 46,
                 "owner": "blacklanternsecurity",
                 "repo": "bbot",
-                "stars": 10661,
+                "stars": 10662,
                 "topics": [
                   "asm",
                   "attack-surface-management",
@@ -683,7 +683,7 @@
             "open_issues": 328,
             "owner": "smicallef",
             "repo": "spiderfoot",
-            "stars": 22860,
+            "stars": 22863,
             "topics": [
               "attacksurface",
               "cti",
@@ -1111,7 +1111,7 @@
             "open_issues": 1,
             "owner": "lissy93",
             "repo": "web-check",
-            "stars": 35019,
+            "stars": 35020,
             "topics": [
               "osint",
               "privacy",
@@ -1320,7 +1320,7 @@
             "open_issues": 356,
             "owner": "sherlock-project",
             "repo": "sherlock",
-            "stars": 93308,
+            "stars": 93313,
             "topics": [
               "cli",
               "cti",
@@ -1400,7 +1400,7 @@
             "open_issues": 28,
             "owner": "qeeqbox",
             "repo": "social-analyzer",
-            "stars": 24243,
+            "stars": 24244,
             "topics": [
               "analysis",
               "analyzer",
@@ -1441,7 +1441,7 @@
             "open_issues": 39,
             "owner": "lanmaster53",
             "repo": "recon-ng",
-            "stars": 5972,
+            "stars": 5973,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:47.470Z"
@@ -1801,7 +1801,7 @@
             "open_issues": 157,
             "owner": "sundowndev",
             "repo": "phoneinfoga",
-            "stars": 18048,
+            "stars": 18049,
             "topics": [
               "agregation",
               "footprint",
@@ -1830,10 +1830,10 @@
             "language": "Python",
             "license": null,
             "last_commit": "2024-01-11T15:36:46Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "HunxByts",
             "repo": "GhostTrack",
-            "stars": 17138,
+            "stars": 17144,
             "topics": [
               "cybersecurity",
               "fyp",
@@ -2072,7 +2072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:27:48.123Z",
+    "last_updated": "2026-10-06T11:07:11.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "OffSec OSINT Pentest/RedTeam Tools",
